@@ -19,7 +19,7 @@
         padding 10px
 </style>
 <script>
-    import VueAudio from './component'
+    import VueAudio from './component/VueAudio.vue'
     export default {
         name: 'app',
         components: {VueAudio},
