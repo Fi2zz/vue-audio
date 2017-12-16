@@ -10,8 +10,6 @@
     "build": "cross-env NODE_ENV=production webpack --progress --hide-modules"
   },
   "dependencies": {
-    "stylus": "^0.54.5",
-    "stylus-loader": "^3.0.1",
     "vue": "^2.4.4"
   },
   "browserslist": [
